@@ -11,7 +11,7 @@ const Index = () => {
   return (
     <>
       <Helmet>
-        <title>Woodland Café | Forest Retreat & Artisan Coffee</title>
+        <title>TurgerBurger | Forest Retreat & Burger</title>
         <meta 
           name="description" 
           content="Discover Woodland Café, a serene forest retreat with cozy treehouse huts, cascading waterfalls, and artisan coffee among ancient trees. Book your nature escape today." 
